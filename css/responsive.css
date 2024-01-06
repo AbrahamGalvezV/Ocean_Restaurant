@@ -1,0 +1,69 @@
+@media screen and (max-width:1200px) {
+
+    .container {
+        width: 992px;
+    }
+
+
+
+    .portada h1 {
+        font-size: 80px;
+    }
+
+}
+
+@media screen and (max-width:992px) {
+
+    .container {
+        width: 720px;
+    }
+
+    .header__link {
+        font-size: 33px;
+    }
+
+    .portada h1 {
+        font-size: 60px;
+    }
+}
+ 
+@media screen and (max-width:768px){
+
+    .container {
+        width: 540px;
+    }
+
+    .contenido ul li {
+        width: 90%;
+    }
+
+    p {
+        width: 90%;
+    }
+
+    iframe {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:576px){
+     
+    .container {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .header__menu {
+        display: none;
+    }
+    
+    .bmenu {
+        display: block;
+        width: 30px;
+        height: 30px;
+    }
+
+
+
+
+}
