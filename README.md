@@ -5,7 +5,7 @@ __Este proyecto se ha basado en la creación de una página web para un restaura
 ## Proyecto
 ***
 __Este proyecto se ha basado en la creación de una página web para un restaurante de lujo con temática oceánica. El objetivo de la página es transmitir la información requerida por el cliente de una forma sobria y concisa transmitiendo sencillez y elegancia.__
-![Foto de la pantalla principal](./img/captura.png)
+![Foto de la pantalla principal](./img/Captura.png)
 ## Proyecto
 __Este proyecto ha sido creado por Abraham Gálvez Vives haciendo uso de HTML y CSS para crear una web compuesta de tres páginas responsivas que se adapte tanto a PC como a dispositivos móviles.__
 ## Tecnologías
