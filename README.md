@@ -26,7 +26,7 @@ __Este proyecto ha sido creado por Abraham Gálvez Vives haciendo uso de HTML y 
 ***
 * Video usado en las pantallas de inicio pretenece a [@javlemus](https://pixabay.com/es/videos/mar-oceano-onda-playa-azul-24216/)
 * El botón usado en el header pertenece a[](https://iconos8.es/icons/set/menu)
-####Colores usados
+#### Colores usados
 * Background-color :#1a0d00
 * Letras header,button ,H1, H2, P:rgb(233, 175, 0)
 * Li, A:rgb(175, 96, 0)
